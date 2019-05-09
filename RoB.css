@@ -1,0 +1,43 @@
+h1 {}
+
+h2 {
+  font-size: 95%;
+}
+
+h3 {
+  font-size: 95%;
+}
+
+
+h4 {
+  font-size: 90%;
+  color: white;
+}
+
+h5 {
+  font-size: 95%;
+  color: white;
+}
+
+a {
+  color: #669999;
+}
+
+p {
+
+}
+
+img#lask {
+  float: right;
+  width: 35%;
+}
+
+section {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+aside {
+  margin-left: 20%;
+  margin-right: 20%;
+}

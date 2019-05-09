@@ -1,0 +1,61 @@
+header {
+text-align: center;
+
+
+}
+
+
+header nav {
+float: right;
+text-align: center;
+ list-style-type: none;
+ display: inline;
+ background-color: #036F83;
+ color: #036F83;
+ padding: 10px 28%;
+}
+header nav a#selected {
+
+  color: white;
+  padding: 10px 10px;
+  text-decoration: underline;
+  text-decoration-style: double;
+
+}
+
+header nav a:link  {
+
+  color: #73CCDD;
+  font-weight: bold;
+  background-color: #036F83;
+  padding: 10px 10px;
+  text-decoration: none;
+}
+
+header nav a:visited{
+  color: #FFFFFF;
+  font-weight: bold;
+  background-color: #036F83;
+  padding: 10px 10px;
+  text-decoration: none;
+}
+
+a:link a:visited {
+  background-color: #FFFFFF;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+header nav a:hover{
+  background-color: #73CCDD;
+  color: #036F83;
+}
+
+.active{
+  background-color: black ;
+  color: #FFFFFF;
+}
+
+header nav .icon{
+  display: none;
+}
